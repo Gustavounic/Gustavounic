@@ -15,11 +15,11 @@
 ###
 <details> 
   <summary align="left">More About me 🙋‍♂️</summary>
-  - I am 18 years old and a cybersecurity student, I am currently in my first semester learning about networks, Linux, Windows Server and Python for security, in addition to having intermediate knowledge of the English language;
-  - I also have knowledge of pen testing, which I took some courses to learn about, in addition to frequently testing my skills at PortSwigger and Tryhackme;
-  - I have knowledge of Python, Javascript, HTML, CSS, in addition to studying C++ and LUA;
-  - While studying, I learned about Linux and user management, Windows and Windows Server, Azure, and was studying to learn more about these tools and operating systems.
-  - Finally, I have knowledge of Linux and Windows systems, as well as always looking to learn more about the systems.
+  • I am 18 years old and a cybersecurity student, I am currently in my first semester learning about networks, Linux, Windows Server and Python for security, in addition to having intermediate knowledge of the English language;<br>
+  • I also have knowledge of pen testing, which I took some courses to learn about, in addition to frequently testing my skills at PortSwigger and Tryhackme;<br>
+  • I have knowledge of Python, Javascript, HTML, CSS, in addition to studying C++ and LUA;<br>
+  • While studying, I learned about Linux and user management, Windows and Windows Server, Azure, and was studying to learn more about these tools and operating systems.<br>
+  • Finally, I have knowledge of Linux and Windows systems, as well as always looking to learn more about the systems.<br>
 
 </details>
 
