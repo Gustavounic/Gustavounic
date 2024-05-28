@@ -56,6 +56,8 @@
 
 <h4 align="left">Portfolio 🔗</h4>
 
+Terminal Checker - https://github.com/Gustavounic/TerminalChecker
+
 ###
 
 <div align="center">
