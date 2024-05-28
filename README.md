@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Nice to meet you User!<br>My name is Gustavo, I'm cybersecurity student from Brazil.</h3>
+<h5 align="left">Nice to meet you User!<br>My name is Gustavo, I'm cybersecurity student from Brazil.</h5>
 
 ###
 
@@ -13,6 +13,7 @@
 <p align="left">🔍 •  I'm looking for my first job opportunity and working with this, I'm studying hard to achieve this and always trying to improve!</p>
 
 ###
+
 <details> 
   <summary align="left">More About me 🙋‍♂️</summary>
   • I am 18 years old and a cybersecurity student, I am currently in my first semester learning about networks, Linux, Windows Server and Python for security, in addition to having intermediate knowledge of the English language;<br>
@@ -24,6 +25,7 @@
 </details>
 
 ###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/gustavo-ribeiro-9b2899267/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -31,6 +33,13 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Gustavounic/Gustavounic/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif">
 </div>
@@ -38,16 +47,28 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustavounic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustavounic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustavounic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustavounic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h4 align="left">Contacts:</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gustavo-ribeiro-9b2899267/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:gustavoribeirounic@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
 
 <h4 align="left">Portfolio 🔗</h4>
-Terminal Checker - https://github.com/Gustavounic/TerminalChecker
-
-###
 
 ###
 
@@ -63,8 +84,6 @@ Terminal Checker - https://github.com/Gustavounic/TerminalChecker
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -113,6 +132,18 @@ Terminal Checker - https://github.com/Gustavounic/TerminalChecker
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" alt="azure logo"  />
+</div>
+
+###
+
+<h5 align="left">I'm learning</h5>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/lua/2C2D72" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
