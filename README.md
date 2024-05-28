@@ -66,7 +66,7 @@ Terminal Checker - https://github.com/Gustavounic/TerminalChecker
 
 ###
 
-<h6 align="left">Languages:</h6>
+<h5 align="left">Languages:</h5>
 
 ###
 
