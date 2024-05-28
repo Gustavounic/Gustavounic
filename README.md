@@ -56,7 +56,7 @@
 
 <p align="left"><strong>Portfolio:</strong></p>
 
-Terminal Checker - https://github.com/Gustavounic/TerminalChecker
+  • Terminal Checker - https://github.com/Gustavounic/TerminalChecker
 
 ###
 
@@ -136,4 +136,3 @@ Terminal Checker - https://github.com/Gustavounic/TerminalChecker
 
 ###
 <p align="left"><strong>It's a summary about me, I hope you liked it! See you soon.</strong></p>
-###
