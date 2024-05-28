@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Nice to meet you User!<br>My name is Gustavo, I'm cybersecurity student from Brazil.</h5>
+<p align="left"><strong>Nice to meet you User!<br>My name is Gustavo, I'm cybersecurity student from Brazil.</strong><p>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h4 align="left">Contacts:</h4>
+<p align="left"><strong>Contacts:</strong></h4>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h4 align="left">Portfolio 🔗</h4>
+<p align="left"><strong>Portfolio:</strong></p>
 
 Terminal Checker - https://github.com/Gustavounic/TerminalChecker
 
@@ -66,7 +66,7 @@ Terminal Checker - https://github.com/Gustavounic/TerminalChecker
 
 ###
 
-<h5 align="left">Languages:</h5>
+<p align="left"><strong>Languages:</strong></p>
 
 ###
 
@@ -84,7 +84,7 @@ Terminal Checker - https://github.com/Gustavounic/TerminalChecker
 
 ###
 
-<h5 align="left">Tools and Frameworks:</h5>
+<p align="left"><strong>Tools and Frameworks:</strong></p>
 
 ###
 
@@ -104,7 +104,7 @@ Terminal Checker - https://github.com/Gustavounic/TerminalChecker
 
 ###
 
-<h5 align="left">Operational Systems:</h5>
+<p align="left"><strong>Operational Systems:</strong></p>
 
 ###
 
@@ -124,7 +124,7 @@ Terminal Checker - https://github.com/Gustavounic/TerminalChecker
 
 ###
 
-<h5 align="left">I'm learning</h5>
+<p align="left"><strong>I'm Learning:</strong></p>
 
 ###
 
@@ -135,7 +135,5 @@ Terminal Checker - https://github.com/Gustavounic/TerminalChecker
 </div>
 
 ###
-
-<h4 align="left">It's a summary about me, I hope you liked it! See you soon.</h4>
-
+<p align="left"><strong>It's a summary about me, I hope you liked it! See you soon.</strong></p>
 ###
